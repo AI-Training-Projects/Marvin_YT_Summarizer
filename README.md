@@ -4,6 +4,14 @@ This Python script allows users to generate a summary of any YouTube video
 by providing the video's URL. The summary is generated using an AI model, 
 and the transcript of the video is fetched using the youtube_transcript_api.
 
+# REVISIONS: 
+    Original:
+    Updater: Rich Lysakowski
+    Updated: 2024.12.06
+    Updates: Added write to files functions to save outputs 
+    TBD: 
+        TODO: Capture key `YT Video Profile` metadata [see New_Features_WIP folder for ]
+
 # Prerequisites
 
 To run this script, you need the following libraries installed:
